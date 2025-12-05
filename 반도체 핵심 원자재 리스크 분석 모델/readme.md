@@ -1,8 +1,3 @@
-아래는 논문 스타일의 `README.md` 초안이다. 그대로 복사해 사용해도 되도록 마크다운 문법을 엄격하게 맞춰 두었다.
-(내용은 업로드된 PDF 슬라이드 및 이전에 제공한 설명을 최대한 통합·정리한 버전이다.) 
-
----
-
 # FAB Chokepoint–Driven Semiconductor Material Risk Modeling
 
 > A Structural Vulnerability and Supply Chain–Integrated Model for Semiconductor Fab Shutdown Risk
