@@ -253,30 +253,5 @@ GNN을 이용하여 소재 또는 공정 노드의 구조적 중요도 $w_i$를 
 3. 종래의 공급망 분석(HHI 기반)에서 포착되지 않는 구조적 취약성을 반영함으로써 정책·투자 의사결정에 기여할 수 있다.
 4. 향후 GNN·TGN 기반 확장성을 명확히 제시하여 연구적 응용 가능성을 확보하였다.
 
----
 
-## 11. 리포지토리 구조
-
-```bash
-.
-├── data
-│   ├── raw/
-│   └── external/
-├── notebooks
-│   ├── 01_preprocessing.ipynb
-│   ├── 02_process_bottleneck.ipynb
-│   ├── 03_supply_risk.ipynb
-│   ├── 04_process_exposure.ipynb
-│   └── 05_mbi_scoring.ipynb
-├── src
-│   ├── build_master_df.py
-│   ├── process_graph.py
-│   ├── metrics_process.py
-│   ├── metrics_supply.py
-│   ├── metrics_exposure.py
-│   └── mbi_model.py
-└── README.md
-```
-
----
 
